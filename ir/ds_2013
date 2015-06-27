@@ -1,0 +1,58 @@
+Data science incorporates varying elements and builds on techniques and theories from many fields, including math, statistics, data engineering, pattern recognition and learning, advanced computing, visualization, uncertainty modeling, data warehousing, and high performance computing with the goal of extracting meaning from data and creating data products. Data science is a novel term that is often used interchangeably with competitive intelligence or business analytics, although it is becoming more common. Data science seeks to use all available and relevant data to effectively tell a story that can be easily understood by non-practitioners.
+
+A practitioner of data science is called a data scientist. The term was coined by DJ Patil and Jeff Hammerbacher.[1] Data scientists solve complex data problems through employing deep expertise in some scientific discipline. It is generally expected that data scientists are able to work with various elements of mathematics, statistics and computer science, although expertise in these subjects are not required. However, a data scientist is most likely to be an expert in only one or two of these disciplines and proficient in another two or three. There is probably no living person who is an expert in all of these disciplines - if so they would be extremely rare. This means that data science must be practiced as a team, where across the membership of the team there is expertise and proficiency across all the disciplines.
+
+Good data scientists are able to apply their skills to achieve a broad spectrum of end results. Some of these include the ability to find and interpret rich data sources, manage large amounts of data despite hardware, software and bandwidth constraints, merge data sources together, ensure consistency of data-sets, create visualizations to aid in understanding data and building rich tools that enable others to work effectively. The skill-sets and competencies that data scientists employ vary widely. Data scientists are an integral part of competitive intelligence, a newly emerging field that encompasses a number of activities, such as data mining and analysis, that can help businesses gain a competitive edge.[2]
+
+A major goal of data science is to make it easier for others to find and coalesce data with greater ease. Data science technologies impact how we access data and conduct research across various domains, including the biological sciences, medical informatics, social sciences and the humanities.
+
+Contents  [hide] 
+1 Origins
+2 History
+3 Domain specific interests
+4 Research areas
+4.1 Security data science
+5 Conferences
+6 Further reading
+7 References
+Origins
+Data science has existed for over a decade. An early claimant to the term data science is William S. Cleveland[3] who wrote "Data Science: An Action Plan for Expanding the Technical Areas of the Field of Statistics', which was published in Volume 69, No. 1, of the April 2001 edition of the International Statistical Review / Revue Internationale de Statistique.[4] About a year later, in April 2002, the International Council for Science: Committee on Data for Science and Technology[5] started publishing the CODATA Data Science Journal.[6][7] Shortly thereafter, in January of 2003, Columbia University began publishing The Journal of Data Science.[8]
+
+History
+The term "data science" (originally used interchangeably with "datalogy") has existed for over thirty years and emerged as a substitute for computer science by Peter Naur in 1960. In 1974, Naur published Concise Survey of Computer Methods, which freely used the term data science in its survey of the contemporary data processing methods that are used in a wide range of applications. In 1996, members of the International Federation of Classification Societies (IFCS) met in Tokyo for their biennial conference. Here, for the first time, the term data science is included in the title of the conference ("Data Science, classification, and related methods").
+
+In 2001, William S. Cleveland introduced the notion of data science as an independent discipline, extending the field of statistics to incorporate "advances in computing with data" in his article "Data Science: An Action Plan for Expanding the Technical Areas of the Field of Statistics," which was published in Volume 69, No. 1, of the April 2001 edition of the International Statistical Review / Revue Internationale de Statistique.[4] In his report, Cleveland establishes six technical areas which he believed to encompass the field of data science: multidisciplinary investigations, models and methods for data, computing with data, pedagogy, tool evaluation, and theory.
+
+In April 2002, the International Council for Science: Committee on Data for Science and Technology (CODATA)[5] started the Data Science Journal,[6] a publication focused on issues such as the description of data systems, their publication on the internet, applications and legal issues.[7] Shortly thereafter, in January 2003, Columbia University began publishing The Journal of Data Science,[8] which provided a platform for all data workers to present their views and exchange ideas. The journal was largely devoted to the application of statistical methods and quantitative research. In 2005, The National Science Board published "Long-lived Digital Data Collections: Enabling Research and Education in the 21st Century" defining data scientists as "the information and computer scientists, database and software and programmers, disciplinary experts, curators and expert annotators, librarians, archivists, and others, who are crucial to the successful management of a digital data collection."
+
+Domain specific interests
+Data science is the practice of deriving valuable insights from data. Data science is emerging to meet the challenges of processing very large data sets i.e. "Big Data" consisting of structured, unstructured or semi-structured data that large enterprises produce. A domain at center stage of data science is the explosion of new data generated from smart devices, web, mobile and social media. Data science requires a versatile skill-set. Many practicing data scientist commonly specialize in specific domains such as marketing, medical, security, fraud and finance fields. However, data scientists rely heavily upon elements of statistics, machine learning, text retrieval and natural language processing to analyze data and interpret results.
+
+Research areas
+As an interdisciplinary subject, data science draws scientific inquiry from a broad range of academic subject areas, mostly related to the hard scientist. Some areas of research are:
+
+Cloud computing
+Databases and information integration
+Learning, natural language processing and information extraction
+Computer vision
+Information retrieval and web information access
+Knowledge discovery in social and information networks
+Security data science
+Data science has a long and rich history in security and fraud monitoring. Paul Braxton founder of securitydatascience.org coined the term "security data science" and defined it as the application of advanced analytics to activity and access data to uncover unknown risks. Security data science is focused on advancing information security through practical applications of exploratory data analysis, statistics, machine learning and data visualization. Although the tools and techniques are no different that those used in data science in any data domain, this group has a micro-focus on reducing risk, identifying fraud or malicious insiders using data science. The information security and fraud prevention industry have been evolving security data science in order to tackle the challenges of managing and gaining insights from huge streams of log data, discover insider threats and prevent fraud. Security data science is "data driven" meaning that new insights and value comes directly from data.[9]
+
+Conferences
+DataEDGE Conference (Data EDucation a new GEneration of data-savvy professionals), held by School of Information, UC Berkeley, Google, dataedge.ischool.berkeley.edu/, 2012
+ICDSE (International Conference on Data Science and Engineering), held by Department of Computer Science, Cochin University of Science and Technology, icdse.cusat.ac.in, 2012
+Annual International Workshop on Dataology and Data Science, held by Research Center on Dataology and DataScience, Fudan University, China, iwdds.fudan.edu.cn/, 2010, 2011, 2012
+Data scientist Summit, held by EMC Corporation, www.greenplum.com/datasciencesummit/, 2011, 2012
+O’REILLY Strata Conference, held by O’REILLY, EMC, Microsoft, HPCC Systems, IBM, VMWare, Oracle, Cloudera, etc, strataconf.com
+Further reading
+Jeffrey M. Stanton (20 May 2012). "Introduction to Data science". Syracuse University School of Information Studies. Retrieved 8 August 2012.
+Calvin Andrus (2012). "Data science: An Introduction". Wikibooks.org. Retrieved 8 August 2012.[10]
+[11]
+[12] [13]
+
+Jeffrey M. Stanton (20 May 2012). "Introduction to Data science". Syracuse University School of Information Studies. Retrieved 8 August 2012.
+Calvin Andrus (2012). "Data science: An Introduction". Wikibooks.org. Retrieved 8 August 2012.
+Drew Conway, John Myles White. "Machine Learning for Hackers". O’Reilly Media, Inc.
+[14] [15]

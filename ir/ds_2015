@@ -1,0 +1,69 @@
+ Data Science is the extraction of knowledge from large volumes of data that are structured or unstructured,[1][2] which is a continuation of the field data mining and predictive analytics, also known as knowledge discovery and data mining (KDD). "Unstructured data" can include emails, videos, photos, social media, and other user-generated content. Data Scientists are qualified people with strength and patience to tunnel through mountains of information and the technical skills in writing algorithms to extract insights from these troves of information.
+
+Contents  [hide] 
+1 Overview
+2 History
+3 Domain specific interests
+4 Criticism
+5 Research areas
+5.1 Security Data Science
+5.2 Clinical data science
+5.3 Genomic data science
+6 Further reading
+7 References
+Overview[edit]
+Data science employs techniques and theories drawn from many fields within the broad areas of nanotechnologies, physics, robotics, mathematics, statistics, information theory and information technology, including signal processing, probability models, machine learning, statistical learning, data mining, database, data engineering, pattern recognition and learning, visualization, predictive analytics, uncertainty modeling, data warehousing, data compression, computer programming, and high performance computing. Methods that scale to Big Data are of particular interest in data science, although the discipline is not generally considered to be restricted to such data. The development of machine learning, a branch of artificial intelligence used to uncover patterns in data from which predictive models can be developed, has enhanced the growth and importance of data science.
+
+Data scientists apply expertise in data preparation, statistics, and machine learning to investigate complex problems in many various domains, such as marketing optimization, fraud detection, setting public policy, etc. These areas represent great breadth and diversity of knowledge, and a data scientist will most likely be expert in only one or at most two of these areas and merely proficient in the other(s). Therefore a data scientist typically works as part of a team whose other members have knowledge and skills which complement their own.[3]
+
+Data scientists use the ability to find and interpret rich data sources; manage large amounts of data despite hardware, software, and bandwidth constraints; merge data sources; ensure consistency of datasets; create visualizations to aid in understanding data; build mathematical models using the data; and present and communicate the data insights/findings (preferably actionable insights) to specialists and scientists in their team and if required to a non-technical audience.
+
+Data science techniques affect research in many domains, including the biological sciences, medical informatics, health care, social sciences and the humanities. It heavily influences economics, business and finance. From the business perspective, data science is an integral part of competitive intelligence, a newly emerging field that encompasses a number of activities, such as data mining and data analysis.[4]
+
+The concurrent methodology for the creation of analytical models is called Standard Methodology for Analytical Models (SMAM),[5] and describes eight phases to follow to ensure the desired outcomes.
+
+History[edit]
+
+Data science process flowchart
+The term "data science" (originally used interchangeably with "datalogy") has existed for over thirty years and was used initially as a substitute for computer science by Peter Naur in 1960. In 1974, Naur published Concise Survey of Computer Methods, which freely used the term data science in its survey of the contemporary data processing methods that are used in a wide range of applications. In 1996, members of the International Federation of Classification Societies (IFCS) met in Kobe for their biennial conference. Here, for the first time, the term data science is included in the title of the conference ("Data Science, classification, and related methods").[6]
+
+In November 1997, C.F. Jeff Wu gave the inaugural lecture entitled "Statistics = Data Science?"[7] for his appointment to the H. C. Carver Professorship at the University of Michigan.[8] In this lecture, he characterized statistical work as a trilogy of data collection, data modeling and analysis, and decision making. In conclusion, he coined the term "data science" and advocated that statistics be renamed data science and statisticians data scientists.[7] Later, he presented his lecture entitled "Statistics = Data Science?" as the first of his 1998 P.C. Mahalanobis Memorial Lectures.[9] These lectures honor Prasanta Chandra Mahalanobis, an Indian scientist and statistician and founder of the Indian Statistical Institute.
+
+In 2001, William S. Cleveland introduced data science as an independent discipline, extending the field of statistics to incorporate "advances in computing with data" in his article "Data Science: An Action Plan for Expanding the Technical Areas of the Field of Statistics," which was published in Volume 69, No. 1, of the April 2001 edition of the International Statistical Review / Revue Internationale de Statistique.[10] In his report, Cleveland establishes six technical areas which he believed to encompass the field of data science: multidisciplinary investigations, models and methods for data, computing with data, pedagogy, tool evaluation, and theory.
+
+In April 2002, the International Council for Science: Committee on Data for Science and Technology (CODATA)[11] started the Data Science Journal,[12] a publication focused on issues such as the description of data systems, their publication on the internet, applications and legal issues.[13] Shortly thereafter, in January 2003, Columbia University began publishing The Journal of Data Science,[14] which provided a platform for all data workers to present their views and exchange ideas. The journal was largely devoted to the application of statistical methods and quantitative research. In 2005, The National Science Board published "Long-lived Digital Data Collections: Enabling Research and Education in the 21st Century" defining data scientists as "the information and computer scientists, database and software and programmers, disciplinary experts, curators and expert annotators, librarians, archivists, and others, who are crucial to the successful management of a digital data collection" whose primary activity is to "conduct creative inquiry and analysis."[15]
+
+In 2008,[citation needed] DJ Patil and Jeff Hammerbacher used the term "data scientist" to define their jobs at LinkedIn and Facebook, respectively.[16]
+
+Domain specific interests[edit]
+Data science is the practice of deriving valuable insights from data. Data science is emerging to meet the challenges of processing very large data sets i.e. "Big Data" consisting of structured, unstructured or semi-structured data that large enterprises produce. A domain at center stage of data science is the explosion of new data generated from smart devices, web, mobile and social media. Data science requires a versatile skill-set. Many practicing data scientists commonly specialize in specific domains such as the fields of marketing, medical, security, fraud and finance. However, data scientists rely heavily upon elements of statistics, machine learning, optimization, signal processing, text retrieval and natural language processing to analyze data and interpret results.
+
+Criticism[edit]
+Although use of the term "data science" has exploded in business environments, many academics and journalists see no distinction between data science and statistics. Writing in Forbes, Gil Press argues that data science is a buzzword without a clear definition and has simply replaced “business analytics” in contexts such as graduate degree programs.[17] In the question-and-answer section of his keynote address at the Joint Statistical Meetings of American Statistical Association, the economist Nate Silver said, “I think data-scientist is a sexed up term for a statistician....Statistics is a branch of science. Data scientist is slightly redundant in some way and people shouldn’t berate the term statistician.”,[18] but that's only one of many points of view.[19]
+
+Research areas[edit]
+As an interdisciplinary subject, data science draws scientific inquiry from a broad range of academic subject areas. Some areas of research are:
+
+Data mining and Knowledge discovery (KDD)
+Cloud computing
+Databases and information integration
+Signal processing
+Learning, natural language processing and information extraction
+Computer vision
+Information retrieval and web information access
+Knowledge discovery in social and information networks
+Information Visualization
+Security Data Science[edit]
+Data science has a long and rich history in security and fraud monitoring reference needed. Security data science is focused on advancing information security through practical applications of exploratory data analysis, statistics, machine learning and data visualization. Although the tools and techniques are no different from those used in data science in any data domain, this group has a micro-focus on reducing risk, identifying fraud or malicious insiders using data science. The information security and fraud prevention industry have been evolving security data science in order to tackle the challenges of managing and gaining insights from huge streams of log data, discover insider threats and prevent fraud.
+
+Clinical data science[edit]
+Data science has always been prominent in the field of clinical trials. Timely insight into clinical data provides answers to medical questions documenting the safety and efficacy of novel and existing therapeutic compounds. With large and complex data, clinical data scientists have been producing statistical analyses of clinical trials for marketing applications since clinical development has been required. In the early 2000s, the clinical data scientist evolved from a role of a consultant to statisticians to a strategic one. Now the clinical data scientist assists in the planning, collection, transformation, analysis and reporting of clinical trial data and communication of their results. These scientists are crucial to the determination of safety and efficacy of novel therapeutic compounds.
+
+Genomic data science[edit]
+Application of Data Science does not only stop at clinical trials, it was also applied to learning the proteins and DNA sequences in Genomics. This field, because of the tools of the data scientist, the work for analyzing, and studying DNA structures, viruses and other biological pathogens. Handling of data is around before but using data science will make it easier for handling vast amount of data in Genomics and make the procedures repeatable.
+
+Further reading[edit]
+Calvin Andrus (2012). "Data science: An Introduction". Wikibooks.org. Retrieved 8 August 2012.[20][21][22][23]
+Drew Conway, John Myles White. "Machine Learning for Hackers". O’Reilly Media, Inc.[24][25]
+Jun (Luke) Huan,"Theoretic Foundation of Data Science, EECS 940". 20 May 2012. Retrieved 1 January 2012., University of Kansas
+Matthew A. Russell. "Mining the Social Web, 2nd Edition". O'Reily Media, Inc.[26]
